@@ -1,0 +1,173 @@
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 auto;
+    text-align: center;
+    background-color: yellow;
+    border-style:solid;
+    border-width:2px;
+    border-color:black;
+    color:black;
+    border-radius:5px;
+}
+
+p {
+    font-family: 'Shrikhand', serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0 auto;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    margin-top: 10px;
+    border-radius:5px;
+    
+}
+
+#allMyTrains {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+    color:black;
+}
+
+.jumbotron {
+    background-color:darkslategrey;
+}
+
+img {
+    max-width:100%;
+}
+
+.form-group {
+    font-family: 'Raleway', sans-serif;
+    color:white;
+}
+
+.form-control {
+    font-family: 'Raleway', sans-serif;
+}
+
+#add {
+    background-color:black;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+
+/*
+.container {
+    background:indianred;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-left:20px;
+}
+
+.btn-primary {
+    border-color:white;
+}
+.all-buttons {
+    background-color: black;
+}
+
+.gifItem {
+    float:left;
+    margin-right: 20px;
+    margin-left:20px;
+    margin-top: 20px;
+    border-color:black;
+    border-style: solid;
+    border-width: 2.5px;
+    border-radius:5px;
+    background-color: skyblue;
+    font-family: 'Shrikhand', cursive;
+    text-align:center;
+}
+
+.gifItem:hover{
+    cursor:pointer;
+    opacity: 0.5;
+}
+
+p {
+    border-top-style: solid;
+    border-top-color: black;
+    border-top-width: 2.5px;
+}
+
+.main-form {
+    margin-top: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width:2.5px;
+    border-radius:5px;
+    background-color:darkcyan;
+    color:black;
+   
+}
+
+#new-topic {
+    margin-top: 10px;
+    margin-bottom: 3px;
+    background-color: black;
+}
+
+#gif-form {
+    font-family: 'Shrikhand', cursive;
+}
+
+#description {
+    color:black;
+    background-color: white;
+    border: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 10px;
+    font-family: 'Shrikhand', cursive;
+    margin-top:7px;
+}
+
+@media only screen and (max-width: 549px) {
+    .gifItem {
+        border:none;
+        background:none;
+        float:none;
+    }
+
+    img {
+        max-width:70%;
+        border-style:solid;
+        border-width:3px;
+        border-color:black;
+        border-radius:5px;
+    }
+
+    p {
+        border:none;
+        background-color:skyblue;
+        max-width:20%;
+        margin: 0 auto;
+        border-style:solid;
+        border-width:1px;
+        border-color:black;
+        border-radius:5px;
+        margin-bottom:5px;
+
+    }
+
+    #description {
+        max-width:100%;
+        margin-top:6px;
+    }
+}
+
+ */
