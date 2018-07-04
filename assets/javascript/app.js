@@ -17,8 +17,7 @@ var destination = "";
 var strtime = "";
 var frequency = 0;
 
-//  var startTime = moment('0900', 'hmm').format("HH:mm")
-//  var endTime = moment('1700', 'hmm').format("HH:mm")
+
 
 //storing new train input to vars 
 
@@ -119,4 +118,4 @@ $(document).ready(function () {
     addStuff();
 });
 
-//appending the DB to the table in the html
+

@@ -29,6 +29,11 @@ p {
     
 }
 
+#header {
+    font-weight: bold;
+    font-style: italic;
+}
+
 #allMyTrains {
     border-style: solid;
     border-width: 2px;
